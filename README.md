@@ -3,7 +3,6 @@
 
 ## <center> **Table of Contents**
 - [Description](#description)
-- [Installation](#installation-steps)
 - [How To Use](#how-to-use)
 - [License](#license)
 - [My Information](#my-information)

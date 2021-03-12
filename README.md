@@ -1,5 +1,6 @@
 
 # <center> Note Taker
+**[Website](https://geminitrinity.github.io/Note-Taker/)**
 
 ## <center> **Table of Contents**
 - [Description](#description)

@@ -9,7 +9,6 @@
 - [My Information](#my-information)
 
 ---
-<br>
 
 ## Description: 
 Save, edit, and delete notes without the need of the internet! The notes will save automatically to your computer and you can access them at an future point!
